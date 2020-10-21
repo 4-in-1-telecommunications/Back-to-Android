@@ -3,14 +3,24 @@
 # <h1 align="center">✨ Back-to-Android ✨</h1>
 
 
+### Introduction
+Android Studio 4.1 test application, exploring ideas to rebuild Four in One Telecommunications Google Play Store Application. 
+While learning about Android Studio updates and features.
+
+
+
 
 <details>
-<summary> Back to Android Studio </summary>
-<br>
-Back to Android an java demo application
+<summary> Google Play Store </summary>
+  <br>
+Four in One Telecommunications test application on Google Play Store.
 <br><br>
 
-![4in1 Telecom Design](/images/Teleco-01.png)
+| Dmeo App                                  | Links |
+| ----------------------------------------- | ----------- |
+| 4in1Telcom developer                      | [4in1 Telecom Design](https://play.google.com/store/apps/dev?id=4751255961033617633) |
+| 4-in-1 Telecom Google Play                |  [4in1 Telecom Design](https://play.google.com/store/apps/details?id=com.a4in1telecommunications.a4in1telecom) |
+
 
 </details>
 
@@ -21,6 +31,9 @@ Back to Android an java demo application
 <summary> Back to Android Studio </summary>
 <br>
 Back to Android an java demo application
+<br><br>
+
+![4in1 Telecom Design](/images/Teleco-01.png)
 <br><br>
 
 ![4in1 Telecom Design](/images/Teleco.gif)
